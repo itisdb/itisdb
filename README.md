@@ -8,7 +8,7 @@
   <img align="left" alt="db's Instagram" width="24px" src="iconfinder_instagram_1632517.png" />
 </a>
 <a href="https://www.facebook.com/dhritesh.bhagat">
-  <img align="left" alt="db's Facebook" width="24px" src="Facebook-logo.png" />
+  <img align="left" alt="db's Facebook" width="24px" src="iconfinder_social-facebook-2019-circle_4696483.png" />
 </a>
 <a href="https://twitter.com/it_is_Bhagat">
   <img align="left" alt="db's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" />
@@ -23,7 +23,7 @@
 A **Creative Cyber** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" img height="300" src="programer.gif" />
+  <img align="right" alt="GIF" img height="400" src="programer.gif" />
 
 **About Me!**
 
@@ -69,8 +69,11 @@ A **Creative Cyber** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/lightroom.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"></code>
 
+**GitHub Stats**
 ![github metrics](https://github-readme-stats.vercel.app/api?username=itisdb&&theme=merko&&show_icons=true)
 >The above stats may or may not be accurate...
+
+**Github Metrics**
 ![github metrics](https://metrics.lecoq.io/itisdb)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisdb&count_private=true&theme=radical" alt="itisdb" />
