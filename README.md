@@ -23,9 +23,7 @@
 A **Creative Cyber** ***Enthusiast*** 🚀
 
  <img align="right" alt="GIF" img height="300" src="circle-cropped.png" />
- 
- ** **
-   <img align="right" alt="GIF" img height="400" src="programer.gif" />
+ <img align="right" alt="GIF" img height="400" src="programer.gif" />
    
 **About Me!**
 
