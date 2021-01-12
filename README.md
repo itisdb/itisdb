@@ -22,7 +22,11 @@
 
 A **Creative Cyber** ***Enthusiast*** 🚀
 
- <img align="right" alt="GIF" img height="200" src="circle-cropped.png" />
+ <img align="right" alt="GIF" img height="300" src="circle-cropped.png" />
+ 
+ ** **
+   <img align="right" alt="GIF" img height="400" src="programer.gif" />
+   
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad(Sophomore) student at Institute of Engineering and Management
