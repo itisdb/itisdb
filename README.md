@@ -69,9 +69,9 @@ A **Creative Cyber** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/lightroom.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"></code>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Nibba2018&&theme=merko&&show_icons=true)
+![github metrics](https://github-readme-stats.vercel.app/api?username=Nibba2018&&theme=merko&&show_icons=true)
 >The above stats may or may not be accurate...
-![github metrics](https://metrics.lecoq.io/Nibba2018)
+![github metrics](https://metrics.lecoq.io/itisdb)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisdb&count_private=true&theme=radical" alt="itisdb" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdb&count_private=true&theme=radical" alt="itisdb" />
