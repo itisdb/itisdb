@@ -1,5 +1,5 @@
 <h1 title="hehehe"> Hey 👋, it is db!</h1>
->h3 title="hehe"> Dhritesh Bhagat</h3>
+<h3 title="hehe"> Dhritesh Bhagat</h3>
 
 <a href="https://www.linkedin.com/in/dhritesh-bhagat-8b1052165/">
   <img align="left" alt="db's LinkedIn" width="24px" src="iconfinder_linkedin_circle_294706.png" />
@@ -23,7 +23,7 @@
 A **Creative Cyber** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="programer.gif" />
+  <img align="right" alt="GIF" img height="200" src="programer.gif" />
 
 **About Me!**
 
