@@ -23,7 +23,6 @@
 A **Creative Cyber** ***Enthusiast*** 🚀
 
  <img align="right" alt="GIF" img height="300" src="circle-cropped.png" />
- <img align="right" alt="GIF" img height="400" src="programer.gif" />
    
 **About Me!**
 
@@ -36,6 +35,8 @@ A **Creative Cyber** ***Enthusiast*** 🚀
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dhriteshbhagat@gmail.com](mailto:dhriteshbhagat@gmail.com).
 
+** **
+ <img align="right" alt="GIF" img height="400" src="programer.gif" />
 
 
 **Languages and Tools:**  
