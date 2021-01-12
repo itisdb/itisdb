@@ -23,7 +23,7 @@
 A **Creative Cyber** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" img height="200" src="programer.gif" />
+  <img align="right" alt="GIF" img height="300" src="programer.gif" />
 
 **About Me!**
 
@@ -69,7 +69,7 @@ A **Creative Cyber** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/lightroom.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"></code>
 
-![github metrics](https://github-readme-stats.vercel.app/api?username=Nibba2018&&theme=merko&&show_icons=true)
+![github metrics](https://github-readme-stats.vercel.app/api?username=itisdb&&theme=merko&&show_icons=true)
 >The above stats may or may not be accurate...
 ![github metrics](https://metrics.lecoq.io/itisdb)
 
