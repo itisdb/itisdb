@@ -69,6 +69,11 @@ A **Creative Cyber** ***Enthusiast*** 🚀
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/lightroom.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/587px-Blender_logo_no_text.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png"></code>
+
 
 **GitHub Stats**
 ** **
