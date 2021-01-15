@@ -36,7 +36,7 @@ A **Creative Cyber** ***Enthusiast*** 🚀
 - 📫 Email me at [dhriteshbhagat@gmail.com](mailto:dhriteshbhagat@gmail.com).
 
 ** **
- <img align="right" alt="GIF" img height="300" src="programer.gif" />
+ <img align="right" alt="GIF" img height="250" src="programer.gif" />
 
 
 **Languages and Tools:**  
