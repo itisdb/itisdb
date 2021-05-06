@@ -22,7 +22,7 @@
 
 A **Creative Cyber** ***Enthusiast*** 🚀
 
- <img align="right" alt="GIF" img height="300" src="circle-cropped.png" />
+ <img align="right" alt="GIF" img height="300" src="https://media-exp1.licdn.com/dms/image/C4E03AQHolTxjF4udFw/profile-displayphoto-shrink_800_800/0/1612594145502?e=1625702400&v=beta&t=Rc_o6Tr0SR_SptrxFj0GJt7VgDHCJFp-5THxwHfRhG0" />
    
 **About Me!**
 
