@@ -75,10 +75,7 @@ A **Creative Cyber** ***Enthusiast*** 🚀
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png"></code>
 
-
+** **
 **Github Metrics**
 ** **
-![github metrics](https://metrics.lecoq.io/itisdb)
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisdb&count_private=true&theme=radical" alt="itisdb" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdb&count_private=true&theme=radical" alt="itisdb" />
