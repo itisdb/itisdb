@@ -30,7 +30,7 @@ A **Creative Cyber** ***Enthusiast*** 🚀
 - 🌱 I’m currently trying to explore the world of coding and find my own home there.
 - 👯 I’m looking to collaborate with other developers on awesome new and innovative projects.
 - 🤔 My interest lies in front end creative web development, along with creating innovative AIs.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Music is my thing; Comic Writer; Artist; Binge Watcher; Anti-Non-Creative; Ideas-Hub.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dhriteshbhagat@gmail.com](mailto:dhriteshbhagat@gmail.com).
