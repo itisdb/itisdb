@@ -1,4 +1,5 @@
-![db](https://user-images.githubusercontent.com/53273486/126996218-66c87670-9585-4f2a-9248-50fb36c7039b.gif)
+<img src='https://user-images.githubusercontent.com/53273486/126997240-fada1788-c0f9-45db-94dd-1178f1abe4f3.gif' alt='db' width=100px/>
+
 <br/>
 <h1 title="hehehe"> Hey 👋, it is db!</h1>
 <h3 title="hehe"> Dhritesh Bhagat</h3>
