@@ -1,3 +1,5 @@
+![db](https://user-images.githubusercontent.com/53273486/126996218-66c87670-9585-4f2a-9248-50fb36c7039b.gif)
+<br/>
 <h1 title="hehehe"> Hey 👋, it is db!</h1>
 <h3 title="hehe"> Dhritesh Bhagat</h3>
 
@@ -13,9 +15,6 @@
 <a href="https://twitter.com/it_is_Bhagat">
   <img align="left" alt="db's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" />
 </a>
-
-![db](https://user-images.githubusercontent.com/53273486/126996218-66c87670-9585-4f2a-9248-50fb36c7039b.gif)
-
 <br />
 <br />
 
