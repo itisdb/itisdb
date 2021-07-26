@@ -14,9 +14,7 @@
   <img align="left" alt="db's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" />
 </a>
 
-
- <img align="right" alt="GIF" img height="250" src="https://64.media.tumblr.com/27b157dd3554889d6e94f48084339a04/e994438840200396-e0/s500x750/02a41db79e6c8f808beb6a8e0fadcd0bb18652b9.gifv" />
-
+![db](https://user-images.githubusercontent.com/53273486/126996218-66c87670-9585-4f2a-9248-50fb36c7039b.gif)
 
 <br />
 <br />
@@ -25,7 +23,7 @@ A **Creative Cyber** ***Enthusiast*** 🚀
    
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad(Sophomore) student at Institute of Engineering and Management
+- 👨🏽‍💻 I’m currently a CSE Undergrad(3rd year) student at Institute of Engineering and Management
 - 🌱 I’m currently trying to explore the world of coding and find my own home there.
 - 👯 I’m looking to collaborate with other developers on awesome new and innovative projects.
 - 🤔 My interest lies in front end creative web development, along with creating innovative AIs.
