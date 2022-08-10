@@ -24,7 +24,7 @@ A **Creative Cyber** ***Enthusiast*** 🚀
    
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad(3rd year) student at Institute of Engineering and Management
+- 👨🏽‍💻 I’m currently a CSE Undergrad(4th year) student at Institute of Engineering and Management
 - 🌱 I’m currently trying to explore the world of coding and find my own home there.
 - 👯 I’m looking to collaborate with other developers on awesome new and innovative projects.
 - 🤔 My interest lies in front end creative web development, along with creating innovative AIs.
