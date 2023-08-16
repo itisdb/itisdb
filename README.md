@@ -1,4 +1,4 @@
-<h1 title="hehehe"> Hey <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>, it is db!</h1>
+<h1 title="hehehe"> Hey <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=25px/>, it is db!</h1>
 <h3 title="hehe"> Dhritesh Bhagat</h3>
 
 <a href="https://www.linkedin.com/in/dhritesh-bhagat-8b1052165/">
